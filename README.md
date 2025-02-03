@@ -10,7 +10,7 @@
 - B.E., Mechanical Engineering | Visveswaraya Technological University (_Jun 2019_) 
 
 ## Work Experience
-**Engineering Intern @ Bharath Earth Movers Limited (_May 2024 - Aug 2024_)**
+**Automation Intern @ Global Vacuum Products (_May 2024 - Aug 2024_)**
 - Designed Human Machine Interface(HMI's) for Vacuum Impregnation Process.
 - Contributed in setting up SCADA system for remote monitoring and control.
 - Gained knowledge on industrial networks and protocols.
