@@ -17,7 +17,8 @@
 
 **Machine Learning Trainee @ Coincent (_May 2022 - July 2022_)**
 - Completed a certification training on Machine Learning, Gained hands on exposure to various regression and classification algorithms.
-- Utilized pleted a certification training on Machine Learning, Gained hands on exposure to various regression and classification algorithms
+- Utilized Python and SQL for data preprocessing, ETL processes, statistical data analysis, implementing machine learning models, hyper parameter tuning, focusing on predictive analysis, clustering, performance 
+  optimization and model deployment.
 
 ## Projects
 ### Mechatronics Automation Project
