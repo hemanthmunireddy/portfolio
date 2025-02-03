@@ -10,6 +10,12 @@
 - B.E., Mechanical Engineering | Visveswaraya Technological University (_Jun 2019_) 
 
 ## Work Experience
+**Engineering Intern @ Bharath Earth Movers Limited (_May 2024 - Aug 2024_)**
+- Designed Human Machine Interface(HMI's) for Vacuum Impregnation Process.
+- Contributed in setting up SCADA system for remote monitoring and control.
+- Gained knowledge on industrial networks and protocols.
+- Collabrated with cross functional teams, combining mechanical, electrical, controls expertise to ensure successful project execution.
+  
 **Engineering Intern @ Bharath Earth Movers Limited (_Feb 2023 - April 2023_)**
 - Conducted Virtual Robot Simulations of FANUC robots for spot welding applications using FANUC Roboguide software.
 - Assisted in Developing, reprogramming and commissioning of FANUC robots for material handling applications.
