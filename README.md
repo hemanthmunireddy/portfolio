@@ -41,7 +41,7 @@ https://drive.google.com/file/d/1YfVGEPDNU5vbAQu1wvEC7NbdfexSx1gg/view?usp=drive
 - Optimized robot motion paths and configured multiple user frames to accommodate diverse workpiece orientations, enhance adaptability and precision, resulting in a 30% increase in operational performance, a 20% reduction in cycle times.
 
 ### Battery Placing using FANUC Robot
-https://www.linkedin.com/posts/hemanthmuni_excited-to-share-this-hands-on-experiment-activity-7276078440418553856-MauN?utm_source=share&utm_medium=member_desktop
+https://drive.google.com/file/d/1s7rbbNLWDFGbCjEYHxYW-8YmuNVPgY4s/view?usp=drive_link
 - Designing robust pick-and-place operations: Developing precise robotic motions to handle inclined objects effectively and utilizing robot's I/O for accurately picking and placing the batteries.
 - Tackling challenges in grip precision and orientation adjustments: Ensuring secure handling of irregularly positioned batteries.
 - Optimizing robotic motion for efficiency and accuracy: Streamlining movement sequences for reliable performance in repetitive tasks.
