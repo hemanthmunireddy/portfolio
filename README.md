@@ -40,15 +40,22 @@ https://drive.google.com/file/d/1YfVGEPDNU5vbAQu1wvEC7NbdfexSx1gg/view?usp=drive
 - Developed a compression-actuated mechanism to convert torque into synchronized rotary and linear motion, leveraging robotic movements for efficient and accurate fastening operations. 
 - Optimized robot motion paths and configured multiple user frames to accommodate diverse workpiece orientations, enhance adaptability and precision, resulting in a 30% increase in operational performance, a 20% reduction in cycle times.
 
+### Battery Placing using FANUC Robot
+https://www.linkedin.com/posts/hemanthmuni_excited-to-share-this-hands-on-experiment-activity-7276078440418553856-MauN?utm_source=share&utm_medium=member_desktop
+- Designing robust pick-and-place operations: Developing precise robotic motions to handle inclined objects effectively and utilizing robot's I/O for accurately picking and placing the batteries.
+- Tackling challenges in grip precision and orientation adjustments: Ensuring secure handling of irregularly positioned batteries.
+- Optimizing robotic motion for efficiency and accuracy: Streamlining movement sequences for reliable performance in repetitive tasks.
 ### Prediction of Cardiovascular Disease using Machine Learning
 https://drive.google.com/file/d/199sTHk4ELnh7AEVgIO1uo2BRP1IV_nb9/view?usp=drive_link
 - Led a comprehensive exploration of a Cardiovascular dataset, harnessing the power of 308,854 records and 19 features. Skillfully applied Exploratory Data Analysis and strategic feature engineering to unearth 
   hidden insights. Tackled class imbalance head-on with under-sampling and SMOT techniques. Implemented a suite of Machine Learning classifiers—from Naive Bayes to Gradient Boosting—culminating in a standout 
   performance by Naive Bayes, boasting remarkable accuracy and recall scores. Thrilled to have successfully navigated the complexities of this project
 ### Automobile price prediction using regression models
+https://drive.google.com/file/d/174B42unMLL7iDoApJK_Y4JO0QNXAzlzX/view?usp=drive_link
 - Conducted comprehensive data preprocessing and feature engineering to optimize the dataset for model training and leveraging a range of regression models using python to accurately predict the price of 
   automobile based on features like transmission, fuel type, driven kms ,vehicle manufacturer and owner.
 ### SQL Driven DataBase Management design and Data analysis.
+https://docs.google.com/presentation/d/12dAn-hdMEfNlKBexlSGdcOpKyiXE27LR/edit?usp=drive_link&ouid=115028343743082697341&rtpof=true&sd=true
 - Utilized SQL to perform advanced data quering and analysis, creating complex queries to extract meaningful information from large datasets. Aditionally crafted ER diagrams to clearly illustrate data relationship and schema structure.
 
 
