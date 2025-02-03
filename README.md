@@ -41,6 +41,7 @@ https://drive.google.com/file/d/1YfVGEPDNU5vbAQu1wvEC7NbdfexSx1gg/view?usp=drive
 - Optimized robot motion paths and configured multiple user frames to accommodate diverse workpiece orientations, enhance adaptability and precision, resulting in a 30% increase in operational performance, a 20% reduction in cycle times.
 
 ### Prediction of Cardiovascular Disease in Machine Learning
+https://drive.google.com/file/d/199sTHk4ELnh7AEVgIO1uo2BRP1IV_nb9/view?usp=drive_link
 - Led a comprehensive exploration of a Cardiovascular dataset, harnessing the power of 308,854 records and 19 features. Skillfully applied Exploratory Data Analysis and strategic feature engineering to unearth 
   hidden insights. Tackled class imbalance head-on with under-sampling and SMOT techniques. Implemented a suite of Machine Learning classifiers—from Naive Bayes to Gradient Boosting—culminating in a standout 
   performance by Naive Bayes, boasting remarkable accuracy and recall scores. Thrilled to have successfully navigated the complexities of this project
