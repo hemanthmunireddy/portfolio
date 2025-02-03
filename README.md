@@ -51,11 +51,11 @@ Assembly: [Assembly](https://drive.google.com/file/d/1lF3Gju69V-xJ-VBcJ4d056ltxg
   hidden insights. Tackled class imbalance head-on with under-sampling and SMOT techniques. Implemented a suite of Machine Learning classifiers—from Naive Bayes to Gradient Boosting—culminating in a standout 
   performance by Naive Bayes, boasting remarkable accuracy and recall scores. Thrilled to have successfully navigated the complexities of this project
 ### Automobile price prediction using regression models
-[Car_price](https://drive.google.com/file/d/174B42unMLL7iDoApJK_Y4JO0QNXAzlzX/view?usp=drive_link)
+[Price_prediction](https://drive.google.com/file/d/174B42unMLL7iDoApJK_Y4JO0QNXAzlzX/view?usp=drive_link)
 - Conducted comprehensive data preprocessing and feature engineering to optimize the dataset for model training and leveraging a range of regression models using python to accurately predict the price of 
   automobile based on features like transmission, fuel type, driven kms ,vehicle manufacturer and owner.
 ### SQL Driven DataBase Management design and Data analysis.
-[Supply_chsin_Amalysis](https://docs.google.com/presentation/d/12dAn-hdMEfNlKBexlSGdcOpKyiXE27LR/edit?usp=drive_link&ouid=115028343743082697341&rtpof=true&sd=true)
+[SQL](https://docs.google.com/presentation/d/12dAn-hdMEfNlKBexlSGdcOpKyiXE27LR/edit?usp=drive_link&ouid=115028343743082697341&rtpof=true&sd=true)
 - Utilized SQL to perform advanced data quering and analysis, creating complex queries to extract meaningful information from large datasets. Aditionally crafted ER diagrams to clearly illustrate data 
   relationship and schema structure.
 
