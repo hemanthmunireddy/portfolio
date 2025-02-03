@@ -7,7 +7,7 @@
 ## Education
 - M.S, Mechatronics, Robotics, Automation | Michigan Technological University (_Dec 2025_)								       		
 - P.G.P, Data Science and Engineering	| Great Lakes Institute of Management (_Nov 2023_)	 			        		
-- B.E., Mechanical Engineering | Visveswaraya Technological University (_Jun 2019_)
+- B.E., Mechanical Engineering | Visveswaraya Technological University (_Jun 2019_) 
 
 ## Work Experience
 **Engineering Intern @ Bharath Earth Movers Limited (_Feb 2023 - April 2023_)**
