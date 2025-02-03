@@ -22,7 +22,7 @@
 
 ## Projects
 ### Mechatronics Automation Project
-Sorting: https://drive.google.com/file/d/11WTSfwbjVD45-Lq7wXGX78qe5s7j1Hp8/view?usp=drive_link
+[Sorting](https://drive.google.com/file/d/11WTSfwbjVD45-Lq7wXGX78qe5s7j1Hp8/view?usp=drive_link)
 - An inductive proximity sensor is used to detect aluminum parts and sends a signal to the pneumatic actuator to sort the object.
 
 Quality Control: https://drive.google.com/file/d/1irOli0r_pAH6fti_H-tlxWQZivwnfmQg/view?usp=drive_link
