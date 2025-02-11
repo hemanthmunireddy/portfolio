@@ -11,8 +11,7 @@
 
 ## Work Experience
 **Automation Intern @ Global Vacuum Products (_May 2024 - Aug 2024_)**
-- Designed Human Machine Interface(HMI's) for Vacuum Impregnation Process.
-- Contributed in setting up SCADA system for remote monitoring and control.
+- Assisted in Developing PLC code for integrating a lift table and a conveyor to material handling system increasing operational efficiency.
 - Gained knowledge on industrial networks and protocols.
 - Collabrated with cross functional teams, combining mechanical, electrical, controls expertise to ensure successful project execution.
   
@@ -27,15 +26,8 @@
   optimization and model deployment.
 
 ## Projects
-### Mechatronics Automation Project
-[Sorting](https://drive.google.com/file/d/11WTSfwbjVD45-Lq7wXGX78qe5s7j1Hp8/view?usp=drive_link)
-- An inductive proximity sensor is used to detect aluminum parts and sends a signal to the pneumatic actuator to sort the object.
-
-[Quality](https://drive.google.com/file/d/1irOli0r_pAH6fti_H-tlxWQZivwnfmQg/view?usp=drive_link)
-- An ultrasonic sensor is used to check the dimensions of the part. Then based on the dimension the parts are qualified as good part and bad part
-
-[Assembly](https://drive.google.com/file/d/1lF3Gju69V-xJ-VBcJ4d056ltxgug_POx/view?usp=drive_link)
-- An assembly process used for inserting screws to the slots of the part. The screws are fed using automatic part feeder. Then cylinder extension and retraction mechanism is used to insert screws to the part.
+### Automated Baggage Screening System
+[Working_Video]
 
 
 ### Advanced Fastening System Optimization Using FANUC Robot
