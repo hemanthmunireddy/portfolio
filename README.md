@@ -29,6 +29,10 @@
 ### Automated Baggage Screening System
 [Working_Video]
 
+- Developed and automated a conveyor-based security station using inductive sensors for precise metal detection, a solenoid-triggered mechanism to divert metal-containing bags to another conveyor, and a lever-based system to queue bags for further inspection.
+- Programmed control logic to interface with sensors and actuators, ensuring seamless automation of the bag screening process.
+- Integrated an intuitive HMI for real-time monitoring and operator control, enhancing system efficiency and ease of use.
+- Optimized system performance, reducing manual errors and improving screening accuracy, contributing to faster, safer airport operations.
 
 ### Advanced Fastening System Optimization Using FANUC Robot
 [Fastening](https://drive.google.com/file/d/1YfVGEPDNU5vbAQu1wvEC7NbdfexSx1gg/view?usp=drive_link)
