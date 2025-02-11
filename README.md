@@ -27,7 +27,7 @@
 
 ## Projects
 ### Automated Baggage Screening System
-[Working_Video]
+[Working_Video](https://drive.google.com/file/d/1959Smn38cHqRDUb8IQwfy_RVYfFuzoZ6/view?usp=drive_link)
 
 - Developed and automated a conveyor-based security station using inductive sensors for precise metal detection, a solenoid-triggered mechanism to divert metal-containing bags to another conveyor, and a lever-based system to queue bags for further inspection.
 - Programmed control logic to interface with sensors and actuators, ensuring seamless automation of the bag screening process.
