@@ -11,13 +11,13 @@
 
 ## Work Experience
 **Automation Intern @ Global Vacuum Products (_May 2024 - Aug 2024_)**
-- Assisted in Developing PLC code for integrating a lift table and a conveyor to material handling system increasing operational efficiency.
-- Gained knowledge on industrial networks and protocols.
-- Collabrated with cross functional teams, combining mechanical, electrical, controls expertise to ensure successful project execution.
+- Assisted the automation team in developing PLC code for Vacuum Impregnation process.
+- Contributed in developing Human Machine Interfaces (HMI’s) for Vacuum Impregnation process..
+- Gained knowledge on hydraulics, pneumatics, sensors and actuators used in the industrial automation projects.
   
 **Engineering Intern @ Bharath Earth Movers Limited (_Feb 2023 - April 2023_)**
 - Conducted Virtual Robot Simulations of FANUC robots for spot welding applications using FANUC Roboguide software.
-- Assisted in Developing, reprogramming and commissioning of FANUC robots for material handling applications.
+- Performed TP programming & Implemented handshake between multiple FANUC robots for material handling applications.
 - Gained knowledge on various modern manufacturing methods, assembling process used in the rail and metro system assembly
 
 **Machine Learning Trainee @ Coincent (_May 2022 - July 2022_)**
