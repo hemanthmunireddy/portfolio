@@ -13,7 +13,7 @@
 **Automation Intern @ Global Vacuum Products (_May 2024 - Aug 2024_)**
 - Assisted the automation team in developing PLC code for Vacuum Impregnation process.
 - Contributed in developing Human Machine Interfaces (HMI’s) using Factory Talk View Studio.
-- Integrated Sensors and Actuators to PLC I/O module.
+- Gained deeper understanding of Sensors and Actuators.
 - Gained knowledge on hydraulics, pneumatics, sensors and actuators used in the industrial automation projects.
   
 **Engineering Intern @ Bharath Earth Movers Limited (_Feb 2023 - April 2023_)**
