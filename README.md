@@ -27,13 +27,15 @@
   optimization and model deployment.
 
 ## Projects
-### Automated Baggage Screening System
+### Automated Baggage Screening System with PLC integration and HMI control
 [Working_Video](https://drive.google.com/file/d/1959Smn38cHqRDUb8IQwfy_RVYfFuzoZ6/view?usp=drive_link)
-
-- Developed and automated a conveyor-based security station using inductive sensors for precise metal detection, a solenoid-triggered mechanism to divert metal-containing bags to another conveyor, and a lever-based system to queue bags for further inspection.
-- Programmed control logic to interface with sensors and actuators, ensuring seamless automation of the bag screening process.
-- Integrated an intuitive HMI for real-time monitoring and operator control, enhancing system efficiency and ease of use.
+- Conveyor-Based station for seamless and efficient item inspection.
+- Inductive sensors for precise metallic object detection enhancing safety.
+- Solenoid-activated mechanism to halt bags with metal for furthur inspection or removal.
+- Automated process streamlining baggage screening,reducing human error.
+- HMI with real time control and monitoring capablitites for operators.
 - Optimized system performance, reducing manual errors and improving screening accuracy, contributing to faster, safer airport operations.
+  
 
 ### Advanced Fastening System Optimization Using FANUC Robot
 [Fastening](https://drive.google.com/file/d/1YfVGEPDNU5vbAQu1wvEC7NbdfexSx1gg/view?usp=drive_link)
