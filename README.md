@@ -7,14 +7,14 @@
 ## Education
 - M.S, Mechatronics, Robotics, Automation | Michigan Technological University (_Dec 2025_)								       		
 - P.G.P, Data Science and Engineering	| Great Lakes Institute of Management (_Nov 2023_)	 			        		
-- B.E., Mechanical Engineering | Visveswaraya Technological University (_Jun 2019_) 
+- B.E., Mechanical Engineering | Visveswaraya Technological University (_Jun 2023_) 
 
 ## Work Experience
 **Automation Intern @ Global Vacuum Products (_May 2024 - Aug 2024_)**
 - Assisted the automation team in developing PLC code for Vacuum Impregnation process.
 - Contributed in developing Human Machine Interfaces (HMI’s) using Factory Talk View Studio.
-- Gained deeper understanding of Sensors and Actuators.
-- Gained knowledge on hydraulics, pneumatics, sensors and actuators used in the industrial automation projects.
+- Gained better understanding of industrial control systems and communication protocol.
+- Acquired knowledge on hydraulics, pneumatics, sensors and actuators used in the industrial automation projects.
   
 **Engineering Intern @ Bharath Earth Movers Limited (_Feb 2023 - April 2023_)**
 - Conducted Virtual Robot Simulations of FANUC robots for spot welding applications using FANUC Roboguide software.
