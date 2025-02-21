@@ -38,7 +38,7 @@
   
 
 ### Advanced Fastening System Optimization Using FANUC Robot
-[Fastening](https://drive.google.com/file/d/1YfVGEPDNU5vbAQu1wvEC7NbdfexSx1gg/view?usp=drive_link)
+[Working_Video](https://drive.google.com/file/d/1YfVGEPDNU5vbAQu1wvEC7NbdfexSx1gg/view?usp=drive_link)
 
 - Embarking on an innovative fastening system optimization for Industrial Settings using FANUC robot. 
 - Designed and 3D-printed a custom end effector to seamlessly integrate a Bosch Gen 2.0 electric screwdriver with the FANUC LR Mate 200iC robot, enabling automated and precise torque-controlled screw fastening. 
@@ -47,10 +47,14 @@
   reduction in cycle times.
 
 ### Battery handling using FANUC Robot
-[Battery handling](https://drive.google.com/file/d/1s7rbbNLWDFGbCjEYHxYW-8YmuNVPgY4s/view?usp=drive_link)
+[Working_Video](https://drive.google.com/file/d/1s7rbbNLWDFGbCjEYHxYW-8YmuNVPgY4s/view?usp=drive_link)
 - Designing robust pick-and-place operations: Developing precise robotic motions to handle inclined objects effectively and utilizing robot's I/O for accurately picking and placing the batteries.
 - Tackling challenges in grip precision and orientation adjustments: Ensuring secure handling of irregularly positioned batteries.
 - Optimizing robotic motion for efficiency and accuracy: Streamlining movement sequences for reliable performance in repetitive tasks.
+
+### SQL Driven DataBase Management design and Data analysis.
+[Report](https://docs.google.com/presentation/d/12dAn-hdMEfNlKBexlSGdcOpKyiXE27LR/edit?usp=drive_link&ouid=115028343743082697341&rtpof=true&sd=true)
+- Crafted ER diagrams to clearly illustrate data relationship and schema structure.Utilized SQL to perform advanced data quering and analysis for resturant and supply chain datasets, creating complex queries to extract meaningful information.
   
 ### Prediction of Cardiovascular Disease using Machine Learning
 [ML_classification](https://drive.google.com/file/d/199sTHk4ELnh7AEVgIO1uo2BRP1IV_nb9/view?usp=drive_link)
@@ -63,9 +67,6 @@
 - Conducted comprehensive data preprocessing and feature engineering to optimize the dataset for model training and leveraging a range of regression models using python to accurately predict the price of 
   automobile based on features like transmission, fuel type, driven kms ,vehicle manufacturer and owner.
   
-### SQL Driven DataBase Management design and Data analysis.
-[SQL](https://docs.google.com/presentation/d/12dAn-hdMEfNlKBexlSGdcOpKyiXE27LR/edit?usp=drive_link&ouid=115028343743082697341&rtpof=true&sd=true)
-- Crafted ER diagrams to clearly illustrate data relationship and schema structure.Utilized SQL to perform advanced data quering and analysis for resturant and supply chain datasets, creating complex queries to 
-  extract meaningful information.
+
 
 
