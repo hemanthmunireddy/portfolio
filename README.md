@@ -71,6 +71,11 @@
 [ML_regression](https://drive.google.com/file/d/174B42unMLL7iDoApJK_Y4JO0QNXAzlzX/view?usp=drive_link)
 - Conducted comprehensive data preprocessing and feature engineering to optimize the dataset for model training and leveraging a range of regression models using python to accurately predict the price of 
   automobile based on features like transmission, fuel type, driven kms ,vehicle manufacturer and owner.
+
+## Certifications
+### FANUC CERT Handling Tool and Operations
+### Industrial Robotics Training FANUC & ABB (DiFacto).
+  
   
 
 
