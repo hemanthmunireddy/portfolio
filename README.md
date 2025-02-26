@@ -3,6 +3,7 @@
 # Industrial Automation Engineer
 
 #### Technical Skills: PLC Programming,HMI, SCADA, FANUC Robot Programming, SQL, Data Analysis.
+https://github.com/hemanthmunireddy/portfolio/blob/main/assets/photo_2025-02-27_00-21-40%20(2).jpg
 
 ## Education
 - M.S, Mechatronics, Robotics, Automation | Michigan Technological University (_Dec 2025_)								       		
