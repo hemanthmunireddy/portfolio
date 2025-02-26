@@ -3,6 +3,7 @@
 # Industrial Automation Engineer
 
 #### Technical Skills: PLC Programming,HMI, SCADA, FANUC Robot Programming, SQL, Data Analysis.
+![My Image](assets/photo_2025-02-27_00-21-40 (2).jpg)
 
 ## Education
 - M.S, Mechatronics, Robotics, Automation | Michigan Technological University (_Dec 2025_)								       		
@@ -28,6 +29,7 @@
 
 ## Projects
 ### Automated Baggage Screening System with PLC integration and HMI control
+![My Image](assets/photo_2025-02-27_00-21-40 (3))
 [Working_Video](https://drive.google.com/file/d/1959Smn38cHqRDUb8IQwfy_RVYfFuzoZ6/view?usp=drive_link)
 - Conveyor-Based station for seamless and efficient item inspection.
 - Inductive sensors for precise metallic object detection enhancing safety.
@@ -38,6 +40,7 @@
   
 
 ### Advanced Fastening System Optimization Using FANUC Robot
+![My Image](assets/photo_2025-02-27_00-21-40 (2).jpg)
 [Working_Video](https://drive.google.com/file/d/1YfVGEPDNU5vbAQu1wvEC7NbdfexSx1gg/view?usp=drive_link)
 
 - Embarking on an innovative fastening system optimization for Industrial Settings using FANUC robot. 
@@ -47,6 +50,7 @@
   reduction in cycle times.
 
 ### Battery handling using FANUC Robot
+![My Image](assets/photo_2025-02-27_00-21-40)
 [Working_Video](https://drive.google.com/file/d/1s7rbbNLWDFGbCjEYHxYW-8YmuNVPgY4s/view?usp=drive_link)
 - Designing robust pick-and-place operations: Developing precise robotic motions to handle inclined objects effectively and utilizing robot's I/O for accurately picking and placing the batteries.
 - Tackling challenges in grip precision and orientation adjustments: Ensuring secure handling of irregularly positioned batteries.
