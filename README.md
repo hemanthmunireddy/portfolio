@@ -27,7 +27,7 @@
   optimization and model deployment.
 
 ## Projects
-### Automated Baggage Screening System with PLC integration and HMI control
+### Industrial PLC based baggage screening and handling system
 ![My Image](assets/photo_2025-02-27_00-21-40 (3).jpg)
 [Working_Video](https://drive.google.com/file/d/1959Smn38cHqRDUb8IQwfy_RVYfFuzoZ6/view?usp=drive_link)
 - Conveyor-Based station for seamless and efficient item inspection.
