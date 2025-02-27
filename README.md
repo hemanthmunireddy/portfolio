@@ -11,9 +11,9 @@
 
 ## Work Experience
 **Automation Intern @ Global Vacuum Products (_May 2024 - Aug 2024_)**
-- Conducted site visits to streamline automation solutions and set up Ethernet/IP protocols for PLCs.
-- Developed PLC Ladder Logic and HMI to monitor and control by integrating sensors, motors and actuators.
-- Gained better understanding of electrical schematics,IO lists, sensors & actuators.
+- Conducted site visits to streamline automation solutions by verifying PLC code and IO lists.
+- Contributed in creating HMI screens and setting up Ethernet/IP protocols with PLC's.
+- Gained better understanding of process controls.
   
 **Engineering Intern @ Bharath Earth Movers Limited (_Feb 2023 - April 2023_)**
 - Conducted Virtual Robot Simulations of FANUC robots for spot welding applications using FANUC Roboguide software.
