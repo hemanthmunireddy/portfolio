@@ -72,8 +72,7 @@
   automobile based on features like transmission, fuel type, driven kms ,vehicle manufacturer and owner.
 
 ## Certifications
-### FANUC CERT Handling Tool and Operations
-### Industrial Robotics Training FANUC & ABB (DiFacto).
+### FANUC CERT Handling Tool and Operations.
   
   
 
