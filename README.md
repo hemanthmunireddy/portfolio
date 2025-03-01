@@ -37,16 +37,12 @@
 - Optimized system performance, reducing manual errors and improving screening accuracy, contributing to faster, safer airport operations.
   
 
-### Advanced Fastening System Optimization Using FANUC Robot
+### Design of End Effector for Water Bottle Handling System
 ![My Image](assets/photo_2025-02-27_00-21-40 (2).jpg)
-[Working_Video](https://drive.google.com/file/d/1YfVGEPDNU5vbAQu1wvEC7NbdfexSx1gg/view?usp=drive_link)
-
-- Embarking on an innovative fastening system optimization for Industrial Settings using FANUC robot. 
-- Designed and 3D-printed a custom end effector to seamlessly integrate a Bosch Gen 2.0 electric screwdriver with the FANUC LR Mate 200iC robot, enabling automated and precise torque-controlled screw fastening. 
-- Developed a compression-actuated mechanism to convert torque into synchronized rotary and linear motion, leveraging robotic movements for efficient and accurate fastening operations. 
-- Optimized robot motion paths and configured multiple user frames to accommodate diverse workpiece orientations, enhance adaptability and precision, resulting in a 30% increase in operational performance, a 20% 
-  reduction in cycle times.
-
+[Working_Video](https://drive.google.com/file/d/1gLRnZr3VMpiw42slKtDi2S1iQWLhhQbA/view?usp=drive_link)
+- Designed and Implemented an end effector for the LR Mate 200iC robot to effeciently pick and stack waater bottles into their designated trays.
+- Programmed the Fanuc robot, enabling precise picking and stacking tasks with the designated end effector.
+- Reduced Picking errors by 25%  through enhanced end effector design and precise robot programming. Achieved 20% reduction in production costs by utilizing CAD based design refinement strategies for the end effector.
 ### Battery handling using FANUC Robot
 ![My Image](assets/photo_2025-02-27_00-21-40.jpg)
 [Working_Video](https://drive.google.com/file/d/1s7rbbNLWDFGbCjEYHxYW-8YmuNVPgY4s/view?usp=drive_link)
