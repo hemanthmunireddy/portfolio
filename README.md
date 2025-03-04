@@ -36,13 +36,6 @@
 - HMI with real time control and monitoring capablitites for operators.
 - Optimized system performance, reducing manual errors and improving screening accuracy, contributing to faster, safer airport operations.
   
-
-### Design of End Effector for Water Bottle Handling System
-![My Image](assets/photo_2025-02-27_00-21-40 (2).jpg)
-[Working_Video](https://drive.google.com/file/d/1gLRnZr3VMpiw42slKtDi2S1iQWLhhQbA/view?usp=drive_link)
-- Designed and Implemented an end effector for the LR Mate 200iC robot to effeciently pick and stack water bottles into their designated trays.
-- Programmed the Fanuc robot, enabling precise picking and stacking tasks with the designated end effector.
-- Reduced Picking errors by 25%  through enhanced end effector design and precise robot programming. Achieved 20% reduction in production costs by utilizing CAD based design refinement strategies for the end effector.
 ### Battery handling using FANUC Robot
 ![My Image](assets/photo_2025-02-27_00-21-40.jpg)
 [Working_Video](https://drive.google.com/file/d/1s7rbbNLWDFGbCjEYHxYW-8YmuNVPgY4s/view?usp=drive_link)
