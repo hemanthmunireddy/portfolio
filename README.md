@@ -12,7 +12,7 @@
 ## Work Experience
 **Automation Intern @ Global Vacuum Products (_May 2024 - Aug 2024_)**
 - Conducted site visits to streamline automation solutions and set up Ethernet/IP protocols for PLCs.
-- Modified and validated PLC programs by adapting existing ladder logic to new I/O configurations, troubleshooting logic errors, and integrating HMI screens for improved process control.
+- Developed PLC Ladder Logic and HMI to monitor and control by integrating sensor, actuators and motors.
 - Enhanced automation effeciency by 40%.
   
 **Engineering Intern @ Bharath Earth Movers Limited (_Feb 2023 - April 2023_)**
