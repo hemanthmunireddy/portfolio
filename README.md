@@ -36,8 +36,7 @@
 - HMI with real time control and monitoring capablitites for operators.
 - Optimized system performance, reducing manual errors and improving screening accuracy, contributing to faster, safer airport operations.
 
-### Design of End Effector for Water Bottle Handling System
-[Working_Video](https://drive.google.com/file/d/1gLRnZr3VMpiw42slKtDi2S1iQWLhhQbA/view?usp=drive_link)
+
   
 ### Battery handling using FANUC Robot
 ![My Image](assets/photo_2025-02-27_00-21-40.jpg)
