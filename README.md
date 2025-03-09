@@ -30,7 +30,7 @@
 [Quality_Control_Video](https://drive.google.com/file/d/1irOli0r_pAH6fti_H-tlxWQZivwnfmQg/view?usp=drive_link)
 [SCADA_PythonScripting](https://drive.google.com/file/d/1Cat3el2Fvr71A4OE8kqWiG6uCS-hRLr8/view?usp=sharing)
 [SCADA_Motor_Control](https://drive.google.com/file/d/1craog6hFb__KhzNHJPJ2cz9i_whnw6HO/view?usp=drive_link)
-[Sorting_Video](https://drive.google.com/file/d/11WTSfwbjVD45-Lq7wXGX78qe5s7j1Hp8/view?usp=drive_link)
+[Sorting](https://drive.google.com/file/d/11WTSfwbjVD45-Lq7wXGX78qe5s7j1Hp8/view?usp=drive_link)
 [assembly](https://drive.google.com/file/d/1lF3Gju69V-xJ-VBcJ4d056ltxgug_POx/view?usp=drive_link)
 - Programmed PLCs using ladder logic to automate mechatronics stations for assembly, sorting, and quality control.  
 - Developed an Ignition SCADA interface integrating Allen-Bradley PLC via OPC UA, utilizing Python scripting for event-driven HMI controls to enable real-time motor operation and monitoring.  
