@@ -26,16 +26,14 @@
   optimization and model deployment.
 
 ## Projects
-### PLC & SCADA Based Automation for Mechatronics Station
-[Quality_Control_Video](https://drive.google.com/file/d/1irOli0r_pAH6fti_H-tlxWQZivwnfmQg/view?usp=drive_link)
-[SCADA_PythonScripting](https://drive.google.com/file/d/1Cat3el2Fvr71A4OE8kqWiG6uCS-hRLr8/view?usp=sharing)
-[SCADA_Motor_Control](https://drive.google.com/file/d/1craog6hFb__KhzNHJPJ2cz9i_whnw6HO/view?usp=drive_link)
-[Sorting](https://drive.google.com/file/d/11WTSfwbjVD45-Lq7wXGX78qe5s7j1Hp8/view?usp=drive_link)
-[assembly](https://drive.google.com/file/d/1lF3Gju69V-xJ-VBcJ4d056ltxgug_POx/view?usp=drive_link)
-- Programmed PLCs using ladder logic to automate mechatronics stations for assembly, sorting, and quality control.  
-- Developed an Ignition SCADA interface integrating Allen-Bradley PLC via OPC UA, utilizing Python scripting for event-driven HMI controls to enable real-time motor operation and monitoring.  
-- Gained hands-on experience in integrating sensors and actuators with PLCs for seamless industrial automation.  
-- Designed and optimized industrial communication networks, ensuring reliable data exchange between PLCs, SCADA systems, and field devices.
+
+### Automated Inspection and Sorting System
+[Working_Video](https://drive.google.com/file/d/152H4bomftluSTq7-PDhdxvCThJE3Njtl/view?usp=sharing)
+
+- Built a miniature industrial control panel integrating Allen Bradley MicroLogix 850 PLC, inductive proximity, photoelectric sensors and a drive, Fanuc robot ,while applying advanced wiring technique like employing sourcing and sinking configurations.
+- Programmed ladder logic in Connected Components Workbench (CCW) to segregation of good parts and bad parts and utilization of FANUC Robot’s inputs and outputs to automate the process.
+- Established PLC-Robot communication via Ethernet IP and programmed FANUC Robot for pick and place operations.
+  
 
 ### Battery handling using FANUC Robot
 ![My Image](assets/photo_2025-02-27_00-21-40.jpg)
