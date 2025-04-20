@@ -27,7 +27,7 @@
 
 ## Projects
 
-### Automated Inspection and Sorting System
+### Automated Inspection and Sorting System using FANUC robot and Allen Bradley PLC
 [Working_Video](https://drive.google.com/file/d/152H4bomftluSTq7-PDhdxvCThJE3Njtl/view?usp=sharing)
 
 - Built a miniature industrial control panel integrating Allen Bradley MicroLogix 850 PLC, inductive proximity, photoelectric sensors and a drive, Fanuc robot ,while applying advanced wiring technique like employing sourcing and sinking configurations.
