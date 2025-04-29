@@ -40,6 +40,12 @@
 ![My Image](assets/photo_2025-02-27_01-51-02.jpg)
 [Report](https://docs.google.com/presentation/d/12dAn-hdMEfNlKBexlSGdcOpKyiXE27LR/edit?usp=drive_link&ouid=115028343743082697341&rtpof=true&sd=true)
 - Crafted ER diagrams to clearly illustrate data relationship and schema structure.Utilized SQL to perform advanced data quering and analysis for resturant and supply chain datasets, creating complex queries to extract meaningful information.
+
+### Safety Proposal for Tension Testing Machine
+[Report](https://drive.google.com/file/d/1WdcxIctHw6QWlvZSU62fZo6S1yxoz6fD/view?usp=drive_link)
+- Objective & Risk Assessment: The project aimed to enhance operator safety and system reliability of a hydraulic tension testing machine by identifying potential hazards through detailed risk assessment, both before and after mitigation.
+- Safety Integration: Safety components such as two-hand control (ABB), safety relay, pressure switch, door interlock switch, and block & bleed valve were integrated to reduce risk levels from Performance Level (PL) e/d to PL b across various operational modes.
+- Reliability Metrics & Outcome: The improved system achieved high safety standards with MTTFd up to 76.92 years, Diagnostic Coverage above 95%, and CCF exceeding ISO standards—resulting in a compliant, cost-effective safety upgrade (~$7,622) that significantly increases operational safety and reliability.
   
 ### Prediction of Cardiovascular Disease using Machine Learning
 ![My Image](assets/photo_2025-02-27_01-49-47.jpg)
