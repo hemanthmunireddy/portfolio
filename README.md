@@ -10,11 +10,19 @@
 - B.E., Mechanical Engineering | Visveswaraya Technological University (_Jun 2023_) 
 
 ## Work Experience
+
+**Manufacturing Controls Engineering Intern @ Tesla**
+
+- Contributed in sustaining SEMI battery module and sub pack line through continous PLC troubleshooting and HMI upgrades.
+- Fanuc robot programming, contributing to manufacturing automation and effeciency.
+- Caliberated Keyance LR sensors for accomodating old and new work piece fixtures.
+
 **Automation Intern @ Global Vacuum Products (_May 2024 - Aug 2024_)**
 
-- Conducted Virtual Robot Cell Simulations using CIMSTATION robotics software for spot welding and material handling 
+- Conducted Virtual Robot Cell Simulations using FANUC Roboguide software for spot welding and material handling 
   applications improving operational accuracy to 95% and reduction of cycle time by 20%.
-- Assisted the automation team in developing PLC code and HMI screens utilizing RS Logix 5000  and Factory Talk.
+- Connected Unitronics PLC's to ignition servers's and designed HMI screens on Ignition.
+-  Programmed Fanuc robot for material handling applications.
 - Gained hands on exposure in working with pneumatics, sensors, actuators and industrial networks.
   
 
