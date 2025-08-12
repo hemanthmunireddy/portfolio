@@ -45,6 +45,12 @@
 - Tackling challenges in grip precision and orientation adjustments: Ensuring secure handling of irregularly positioned batteries.
 - Optimizing robotic motion for efficiency and accuracy: Streamlining movement sequences for reliable performance in repetitive tasks.
 
+### Advanced Fastening system optimization using Fanuc Lr Mate 200ic
+- Embarking on an innovative fastening system optimization for Industrial Settings using FANUC robot.
+- Designed and 3D-printed a custom end effector to seamlessly integrate a Bosch Gen 2.0 electric screwdriver with the FANUC LR Mate 200iC robot, enabling automated and precise torque-controlled screw fastening. 
+- Developed a compression-actuated mechanism to convert torque into synchronized rotary and linear motion, leveraging robotic movements for efficient and accurate fastening operations. 
+- Optimized robot motion paths and configured multiple user frames to accommodate diverse workpiece orientations, enhance adaptability and precision, resulting in a 30% increase in operational performance, a 20% reduction in cycle times.
+
 ### SQL Driven DataBase Management design and Data analysis.
 ![My Image](assets/photo_2025-02-27_01-51-02.jpg)
 [Report](https://docs.google.com/presentation/d/12dAn-hdMEfNlKBexlSGdcOpKyiXE27LR/edit?usp=drive_link&ouid=115028343743082697341&rtpof=true&sd=true)
