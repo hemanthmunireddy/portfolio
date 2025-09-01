@@ -46,6 +46,7 @@
 - Optimizing robotic motion for efficiency and accuracy: Streamlining movement sequences for reliable performance in repetitive tasks.
 
 ### Advanced Fastening system optimization using Fanuc Lr Mate 200ic
+[Report](https://drive.google.com/file/d/1ukJjAIbInrGCaXu_DM7fuGiB8CVQARqM/view?usp=drive_link)
 - Embarking on an innovative fastening system optimization for Industrial Settings using FANUC robot.
 - Designed and 3D-printed a custom end effector to seamlessly integrate a Bosch Gen 2.0 electric screwdriver with the FANUC LR Mate 200iC robot, enabling automated and precise torque-controlled screw fastening. 
 - Developed a compression-actuated mechanism to convert torque into synchronized rotary and linear motion, leveraging robotic movements for efficient and accurate fastening operations. 
