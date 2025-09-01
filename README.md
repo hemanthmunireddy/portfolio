@@ -64,13 +64,13 @@
   
 ### Prediction of Cardiovascular Disease using Machine Learning
 ![My Image](assets/photo_2025-02-27_01-49-47.jpg)
-[ML_classification](https://drive.google.com/file/d/199sTHk4ELnh7AEVgIO1uo2BRP1IV_nb9/view?usp=drive_link)
+[ML_classification_report](https://drive.google.com/file/d/199sTHk4ELnh7AEVgIO1uo2BRP1IV_nb9/view?usp=drive_link)
 - Led a comprehensive exploration of a Cardiovascular dataset, harnessing the power of 308,854 records and 19 features. Skillfully applied Exploratory Data Analysis and strategic feature engineering to unearth 
   hidden insights. Tackled class imbalance head-on with under-sampling and SMOT techniques. Implemented a suite of Machine Learning classifiers—from Naive Bayes to Gradient Boosting—culminating in a standout 
   performance by Naive Bayes, boasting remarkable accuracy and recall scores. Thrilled to have successfully navigated the complexities of this project
   
 ### Automobile price prediction using regression models
-[ML_regression](https://drive.google.com/file/d/174B42unMLL7iDoApJK_Y4JO0QNXAzlzX/view?usp=drive_link)
+[ML_regression_report](https://drive.google.com/file/d/174B42unMLL7iDoApJK_Y4JO0QNXAzlzX/view?usp=drive_link)
 - Conducted comprehensive data preprocessing and feature engineering to optimize the dataset for model training and leveraging a range of regression models using python to accurately predict the price of 
   automobile based on features like transmission, fuel type, driven kms ,vehicle manufacturer and owner.
 
