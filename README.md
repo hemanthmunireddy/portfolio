@@ -12,9 +12,10 @@
 
 **Manufacturing Controls Engineering Intern @ Tesla**
 
-- Contributed in sustaining SEMI battery module and sub pack line through continous PLC troubleshooting and HMI upgrades.
-- Fanuc robot programming, contributing to manufacturing automation and effeciency.
-- Caliberated Keyance LR sensors for accomodating old and new work piece fixtures.
+- Optimized CTA station standby condition by designing a new sequence on PLC-Robot Handshake that eliminated gantry-cell desynchronization delays during CTA operation and reduced cycle time by 15s and tip change    by the operator on the gantry by 25%.
+- Eliminated the need for manual operation and operators for the ratio check process by designing a new sequence on the PLC-Gantry handshake, automating the process and also integrated tip checking process by       utilizing keyance LR sensors.
+- Developed pump interlocks for the battery module line to avoid mixing of adhesive’s by integrating barcode scans , developed material check Function block and WinCC HMI template for material verification before   the start of operation.
+- Eliminated 35% of manual robot recovery tasks by modifying PLC graph code, Fanuc robot programs to resume sequences from home position after faults and enhanced troubleshooting efficiency by updating HMI          faceplates with actuator descriptions and station indicators.
 
 **Automation Controls Engineer @ Global Vacuum Products (_March 2023 - Nov 2023_)**
 
