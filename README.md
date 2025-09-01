@@ -5,8 +5,7 @@
 #### Technical Skills: PLC Programming,HMI, SCADA, FANUC Robot Programming, SQL, Data Analysis.
 
 ## Education
-- M.S, Mechatronics, Robotics, Automation | Michigan Technological University (_Dec 2025_)								       		
-- P.G.P, Data Science and Engineering	| Great Lakes Institute of Management (_Nov 2023_)	 			        		
+- M.S, Mechatronics, Robotics, Automation | Michigan Technological University (_Dec 2025_)								       			 			        		
 - B.E., Mechanical Engineering | Visveswaraya Technological University (_Jun 2023_) 
 
 ## Work Experience
@@ -17,12 +16,12 @@
 - Fanuc robot programming, contributing to manufacturing automation and effeciency.
 - Caliberated Keyance LR sensors for accomodating old and new work piece fixtures.
 
-**Automation Intern @ Global Vacuum Products (_May 2024 - Aug 2024_)**
+**Automation Controls Engineer @ Global Vacuum Products (_March 2023 - Nov 2023_)**
 
-- Conducted Virtual Robot Cell Simulations using FANUC Roboguide software for spot welding and material handling 
-  applications improving operational accuracy to 95% and reduction of cycle time by 20%.
-- Connected Unitronics PLC's to ignition servers's and designed HMI screens on Ignition.
--  Programmed Fanuc robot for material handling applications.
+-	Developed Function Blocks for valve loading/unloading, Level sensors on Siemens TIA Portal for vacuum impregnation plant project.
+-	Created PLC code for pneumatic pick and place machines and conveyor system, enhancing material transfer efficiency.
+-	Developed intuitive HMI screens for vacuum furnaces on Ignition, displaying current equipment state.
+-	Troubleshoot hardware, software, and wiring issues to reduce downtime and improve system reliability.
 - Gained hands on exposure in working with pneumatics, sensors, actuators and industrial networks.
   
 
