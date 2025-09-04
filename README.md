@@ -22,7 +22,7 @@
 
 **Automation Controls Engineer @ Global Vacuum Products (_March 2023 - Nov 2023_)**
 
--	Developed Function Blocks for valve loading/unloading, Level sensors on Siemens TIA Portal for vacuum impregnation plant project.
+-	Assisted in developing Function Blocks for valve loading/unloading, Level sensors on Siemens TIA Portal, Developed intuitive HMI screens,  I/O lists for vacuum impregnation plant project enhancing automation efficiency.
 -	Created PLC code for pneumatic pick and place machines and conveyor system for manual mode of operation.
 -	Developed intuitive HMI screens for vacuum furnaces on Ignition, displaying current equipment state.
 -	Performed CNC programming for milling and turning operations using FANUC Dosbox simulation software.
