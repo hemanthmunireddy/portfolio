@@ -8,6 +8,9 @@
 - M.S, Mechatronics, Robotics, Automation | Michigan Technological University (_Dec 2025_)								       			 			        		
 - B.E., Mechanical Engineering | Visveswaraya Technological University (_Jun 2023_) 
 
+## Certifications
+- Post graduate program in data science and engineering (_Nov 2023_)
+  
 ## Work Experience
 
 **Manufacturing Controls Engineering Intern @ Tesla**
