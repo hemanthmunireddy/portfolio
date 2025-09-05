@@ -62,6 +62,12 @@
 [Report](https://docs.google.com/presentation/d/12dAn-hdMEfNlKBexlSGdcOpKyiXE27LR/edit?usp=drive_link&ouid=115028343743082697341&rtpof=true&sd=true)
 - Crafted ER diagrams to clearly illustrate data relationship and schema structure.Utilized SQL to perform advanced data quering and analysis for resturant and supply chain datasets, creating complex queries to extract meaningful information.
 
+### Industrial PLC based baggage Screening with HMI control
+[Working_Video](https://drive.google.com/file/d/18izs8OEbYTC-3akZPCTLphO0hwt3Y2RZ/view?usp=drive_link)
+- Designed and implemented an automated baggage screening system using Allen-Bradley CompactLogix PLC and FactoryTalk View HMI, integrating inductive sensors and solenoid-actuated diversion for enhanced airport security and efficiency.
+- Developed PLC logic in RSLogix 5000, utilizing timers, counters, and math instructions to optimize automated sorting and rejection, improving detection accuracy and reducing manual intervention.
+- Created a real-time HMI interface for monitoring bag count, queue management, and emergency alerts, incorporating safety features like emergency stop and conveyor overload prevention for reliable operation.
+
 ### Safety Proposal for Tension Testing Machine
 [Report](https://drive.google.com/file/d/1WdcxIctHw6QWlvZSU62fZo6S1yxoz6fD/view?usp=drive_link)
 - Objective & Risk Assessment: The project aimed to enhance operator safety and system reliability of a hydraulic tension testing machine by identifying potential hazards through detailed risk assessment, both before and after mitigation.
