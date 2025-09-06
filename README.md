@@ -16,7 +16,7 @@ Mechatronics Engineer | 3+ Years of specialized experience in automation and con
    
 ## 🌍 Work Experience
 
-**Manufacturing Controls Engineering Intern @ Tesla**
+⚡**Manufacturing Controls Engineering Intern @ Tesla**
 
 - Optimized CTA station standby condition by designing a new sequence on PLC-Robot Handshake that eliminated gantry-cell desynchronization delays during CTA operation and reduced cycle time by 15s and tip change    by the operator on the gantry by 25%.
 - Eliminated the need for manual operation and operators for the ratio check process by designing a new sequence on the PLC-Gantry handshake, automating the process and also integrated tip checking process by       utilizing keyance LR sensors.
