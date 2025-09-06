@@ -23,7 +23,7 @@ Mechatronics Engineer | 3+ Years of specialized experience in automation and con
 - Developed pump interlocks for the battery module line to avoid mixing of adhesive’s by integrating barcode scans , developed material check Function block and WinCC HMI template for material verification before   the start of operation.
 - Eliminated 35% of manual robot recovery tasks by modifying PLC graph code, Fanuc robot programs to resume sequences from home position after faults and enhanced troubleshooting efficiency by updating HMI          faceplates with actuator descriptions and station indicators.
 
-**Automation Controls Engineer @ Global Vacuum Products (_March 2023 - Nov 2023_)**
+🌱**Automation Controls Engineer @ Global Vacuum Products (_March 2023 - Nov 2023_)**
 
 -	Assisted in developing Function Blocks for valve loading/unloading, Level sensors on Siemens TIA Portal, Developed intuitive HMI screens,  I/O lists for vacuum impregnation plant project enhancing automation efficiency.
 -	Created PLC code for pneumatic pick and place machines and conveyor system for manual mode of operation.
