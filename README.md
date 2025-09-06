@@ -12,7 +12,7 @@ Mechatronics Engineer | 3+ Years of specialized experience in automation and con
 ## 🎉Certifications
 - Post graduate program in data science and engineering (_Nov 2023_)
    
-## 🌍 Work Experience
+## 🌍 Work Experience 
 
 ⚡**Manufacturing Controls Engineering Intern @ Tesla**
 
