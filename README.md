@@ -1,6 +1,6 @@
 
 
-# 👋 Hi, I am Hemanth Munireddy 
+# 👋 Hi, I'm Hemanth Munireddy 
 
 ### 🌟Summary
 Mechatronics Engineer | 3+ Years of specialized experience in automation and control engineering combined with 1 year of industrial experience Hands on experience in PLC programming, HMI development, SCADA systems ,Industrial Robotics, SQL, Data analysis with Python.
@@ -9,7 +9,7 @@ Mechatronics Engineer | 3+ Years of specialized experience in automation and con
 - M.S, Mechatronics, Robotics, Automation | Michigan Technological University (_Dec 2025_)								       			 			        		
 - B.E., Mechanical Engineering | Visveswaraya Technological University (_Jun 2023_) 
 
-## Certifications
+## 🎉Certifications
 - Post graduate program in data science and engineering (_Nov 2023_)
    
 ## 🌍 Work Experience
