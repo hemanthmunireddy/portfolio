@@ -33,7 +33,6 @@
 ## Projects
 
 ### Automated Inspection and Sorting System using FANUC robot and Allen Bradley PLC
-![My Image](assets/photo_2025-04-30_00-42-49.jpg)
 [Working_Video](https://drive.google.com/file/d/1zFavhhW5IwPKEUOX1pLkGWlN5phOJ1ts/view?usp=drive_link)
 
 - Built a miniature industrial control panel integrating Allen Bradley MicroLogix 850 PLC, inductive proximity, photoelectric sensors and a drive, Fanuc robot ,while applying advanced wiring technique like employing sourcing and sinking configurations.
@@ -42,15 +41,12 @@
   
 
 ### Battery handling using FANUC Robot
-![My Image](assets/photo_2025-02-27_00-21-40.jpg)
 [Working_Video](https://drive.google.com/file/d/1s7rbbNLWDFGbCjEYHxYW-8YmuNVPgY4s/view?usp=drive_link)
 - Designing robust pick-and-place operations: Developing precise robotic motions to handle inclined objects effectively and utilizing robot's I/O for accurately picking and placing the batteries.
 - Tackling challenges in grip precision and orientation adjustments: Ensuring secure handling of irregularly positioned batteries.
 - Optimizing robotic motion for efficiency and accuracy: Streamlining movement sequences for reliable performance in repetitive tasks.
 
 ### Advanced Fastening system optimization using Fanuc Lr Mate 200ic
-[Working_Video](https://drive.google.com/file/d/1RvWt3zlZcGb3rKvpXD1IwrS37_vgeLX2/view?usp=drive_link)
-
 [Report](https://drive.google.com/file/d/1ukJjAIbInrGCaXu_DM7fuGiB8CVQARqM/view?usp=drive_link)
 - Embarking on an innovative fastening system optimization for Industrial Settings using FANUC robot.
 - Designed and 3D-printed a custom end effector to seamlessly integrate a Bosch Gen 2.0 electric screwdriver with the FANUC LR Mate 200iC robot, enabling automated and precise torque-controlled screw fastening. 
@@ -58,7 +54,6 @@
 - Optimized robot motion paths and configured multiple user frames to accommodate diverse workpiece orientations, enhance adaptability and precision, resulting in a 30% increase in operational performance, a 20% reduction in cycle times.
 
 ### SQL Driven DataBase Management design and Data analysis.
-![My Image](assets/photo_2025-02-27_01-51-02.jpg)
 [Report](https://docs.google.com/presentation/d/12dAn-hdMEfNlKBexlSGdcOpKyiXE27LR/edit?usp=drive_link&ouid=115028343743082697341&rtpof=true&sd=true)
 - Crafted ER diagrams to clearly illustrate data relationship and schema structure.Utilized SQL to perform advanced data quering and analysis for resturant and supply chain datasets, creating complex queries to extract meaningful information.
 
@@ -75,7 +70,6 @@
 - Reliability Metrics & Outcome: The improved system achieved high safety standards with MTTFd up to 76.92 years, Diagnostic Coverage above 95%, and CCF exceeding ISO standards—resulting in a compliant, cost-effective safety upgrade (~$7,622) that significantly increases operational safety and reliability.
   
 ### Prediction of Cardiovascular Disease using Machine Learning
-![My Image](assets/photo_2025-02-27_01-49-47.jpg)
 [ML_classification_report](https://drive.google.com/file/d/199sTHk4ELnh7AEVgIO1uo2BRP1IV_nb9/view?usp=drive_link)
 - Led a comprehensive exploration of a Cardiovascular dataset, harnessing the power of 308,854 records and 19 features. Skillfully applied Exploratory Data Analysis and strategic feature engineering to unearth 
   hidden insights. Tackled class imbalance head-on with under-sampling and SMOT techniques. Implemented a suite of Machine Learning classifiers—from Naive Bayes to Gradient Boosting—culminating in a standout 
