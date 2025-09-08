@@ -38,14 +38,7 @@ Mechatronics Engineer | 3+ Years of specialized experience in automation and con
 
 - Built a miniature industrial control panel integrating Allen Bradley MicroLogix 850 PLC, inductive proximity, photoelectric sensors and a drive, Fanuc robot ,while applying advanced wiring technique like employing sourcing and sinking configurations.
 - Programmed ladder logic in Connected Components Workbench (CCW) to segregation of good parts and bad parts and utilization of FANUC Robot’s inputs and outputs to automate the process.
-- Established PLC-Robot communication via Ethernet IP and programmed FANUC Robot for pick and place operations.
-  
-
-### 🤖 Battery handling using FANUC Robot
-[Working_Video](https://drive.google.com/file/d/1s7rbbNLWDFGbCjEYHxYW-8YmuNVPgY4s/view?usp=drive_link)
-- Designing robust pick-and-place operations: Developing precise robotic motions to handle inclined objects effectively and utilizing robot's I/O for accurately picking and placing the batteries.
-- Tackling challenges in grip precision and orientation adjustments: Ensuring secure handling of irregularly positioned batteries.
-- Optimizing robotic motion for efficiency and accuracy: Streamlining movement sequences for reliable performance in repetitive tasks.
+- Established PLC-Robot communication via Ethernet IP and programmed FANUC Robot for pick and place operations. 
 
 ### 🤖 Advanced Fastening system optimization using Fanuc Lr Mate 200ic
 [Report](https://drive.google.com/file/d/1ukJjAIbInrGCaXu_DM7fuGiB8CVQARqM/view?usp=drive_link)
@@ -53,6 +46,19 @@ Mechatronics Engineer | 3+ Years of specialized experience in automation and con
 - Designed and 3D-printed a custom end effector to seamlessly integrate a Bosch Gen 2.0 electric screwdriver with the FANUC LR Mate 200iC robot, enabling automated and precise torque-controlled screw fastening. 
 - Developed a compression-actuated mechanism to convert torque into synchronized rotary and linear motion, leveraging robotic movements for efficient and accurate fastening operations. 
 - Optimized robot motion paths and configured multiple user frames to accommodate diverse workpiece orientations, enhance adaptability and precision, resulting in a 30% increase in operational performance, a 20% reduction in cycle times.
+
+### 📈 PID Controller design for magnetic levitation system using Cohen Coon Method
+[Report](https://drive.google.com/file/d/10yvCP0mrvMw3rYTmnKT2Ls4WWmdDa6y0/view?usp=drive_link)
+- Modeled a first-order system with time delay for a magnetic levitation setup, identifying key parameters from the step response system gain (K) = 2.5, time constant (τm) = 4.2 s, and dead time (τd) = 1.1 s — to design a precise control solution.
+- Required to design P, PI, PD, and PID controllers using the Cohen–Coon tuning method to achieve zero steady-state error (<0.5%), minimal overshoot (<5%), and fast settling time (<6 s).
+- Applied Cohen–Coon formulas to calculate optimal gains (Kp, Ki, Kd), implemented each controller, and tested in MATLAB/Simulink. Plotted step responses, analyzed performance metrics, and iteratively fine-tuned gains to meet target specifications.
+- PID controller achieved rise time of 2.8 s, overshoot of 3%, and settling time of 5.1 s with zero steady-state error, outperforming P, PI, and PD controllers by 15–25% in key metrics.
+  
+  ### 🤖 Battery handling using FANUC Robot
+[Working_Video](https://drive.google.com/file/d/1s7rbbNLWDFGbCjEYHxYW-8YmuNVPgY4s/view?usp=drive_link)
+- Designing robust pick-and-place operations: Developing precise robotic motions to handle inclined objects effectively and utilizing robot's I/O for accurately picking and placing the batteries.
+- Tackling challenges in grip precision and orientation adjustments: Ensuring secure handling of irregularly positioned batteries.
+- Optimizing robotic motion for efficiency and accuracy: Streamlining movement sequences for reliable performance in repetitive tasks.
 
 ### 🗄️ SQL Driven DataBase Management design and Data analysis.
 [Report](https://docs.google.com/presentation/d/12dAn-hdMEfNlKBexlSGdcOpKyiXE27LR/edit?usp=drive_link&ouid=115028343743082697341&rtpof=true&sd=true)
