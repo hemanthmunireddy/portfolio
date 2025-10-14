@@ -88,8 +88,8 @@ Mechatronics Engineer | 3+ Years of specialized experience in automation and con
   automobile based on features like transmission, fuel type, driven kms ,vehicle manufacturer and owner.
 
 ## 🌟 Courses
-Applied Logic Level-1 (PLC DOJO)
-Applied Logic Level-2 (PLC DOJO)
+Applied Logic Level-1 (PLC DOJO)|
+Applied Logic Level-2 (PLC DOJO)|
 Learn Siemens S71200 from scratch using TIA portal
 
 ## Connect with me
