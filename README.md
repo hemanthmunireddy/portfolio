@@ -25,7 +25,7 @@ Mechatronics Engineer | 3+ Years of specialized experience in automation and con
 💻 **Automayion Intern @ Global Vacuum Products (_April 2024 - Aug 2024)**
 -	Contributed in developing Graph sequences for Vacuum Impregnation process.
 -	Programmed alarms contributing to error handling stratergies.
--	-  Gained in depth understandings on Safety PLC and safety devices.
+-	Gained in depth understandings on Safety PLC and safety devices.
 
 ## 🚀 Projects
 
@@ -86,6 +86,11 @@ Mechatronics Engineer | 3+ Years of specialized experience in automation and con
 [ML_regression_report](https://drive.google.com/file/d/174B42unMLL7iDoApJK_Y4JO0QNXAzlzX/view?usp=drive_link)
 - Conducted comprehensive data preprocessing and feature engineering to optimize the dataset for model training and leveraging a range of regression models using python to accurately predict the price of 
   automobile based on features like transmission, fuel type, driven kms ,vehicle manufacturer and owner.
+
+## 🌟 Courses
+Applied Logic Level-1 (PLC DOJO)
+Applied Logic Level-2 (PLC DOJO)
+Learn Siemens S71200 from scratch using TIA portal
 
 ## Connect with me
 https://www.linkedin.com/in/hemanthmuni/
