@@ -3,7 +3,7 @@
 # 👋 Hi, I'm Hemanth Munireddy 
 
 ### 🌟Summary
-Mechatronics Engineer | 3+ Years of specialized experience in automation and control engineering combined with 1 year of industrial experience Hands on experience in PLC programming, HMI development, SCADA systems ,Industrial Robotics, SQL, Data analysis with Python.
+Mechatronics Engineer | 1 year of industrial experience Hands on experience in PLC programming, HMI development, SCADA systems ,Industrial Robotics, SQL, Data analysis with Python.
 
 ## ✍️Education
 - M.S, Mechatronics, Robotics, Automation | Michigan Technological University (_Dec 2025_)								       			 			        		
@@ -14,9 +14,10 @@ Mechatronics Engineer | 3+ Years of specialized experience in automation and con
    
 ## 🌍 Work Experience 
 **Graduate Teaching Assistant @ Michigan Technological University (Aug_2025 - Dec 2025)**
-- Restructured existing lab modules for the Control System Integration course and developed new lab experiments on integrating Ignition SCADA with PLCs. Authored a lab manual for Unitronics PLCs to operate pneumatic pick-and-place machines.
-- Repaired and recommissioned non-functional machines by replacing faulty servo motors and configuring network switches for Ethernet communication.
-- Wired control components such as MCBs and relays to PLCs and configured input/output tags, enhancing system usability and improving student learning experience.
+- Developed and restructured lab modules integrating Ignition SCADA with PLCs.
+- Created a Unitronics PLC lab manual for pneumatic pick-and-place applications.
+- Repaired and configured machines by replacing servo motors and setting up Ethernet networks.
+- Wired control components (MCBs, relays) and configured I/O tags to support lab experiments.
 
 ⚡**Manufacturing Controls Engineering Intern @ Tesla**
 
