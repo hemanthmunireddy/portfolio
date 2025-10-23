@@ -26,7 +26,7 @@ Mechatronics Engineer | 3+ Years of specialized experience in automation and con
 - Eliminated 35% of manual robot recovery tasks by modifying PLC graph code, Fanuc robot programs to resume sequences from home position after faults and enhanced troubleshooting efficiency by updating HMI          faceplates with actuator descriptions and station indicators.
 
 
-💻 **Automayion Intern @ Global Vacuum Products (_April 2024 - Aug 2024)**
+💻 **Automation Intern @ Global Vacuum Products (_April 2024 - Aug 2024)**
 -	Contributed in developing Graph sequences for Vacuum Impregnation process.
 -	Programmed alarms contributing to error handling stratergies.
 -	Gained in depth understandings on Safety PLC and safety devices.
