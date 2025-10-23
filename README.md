@@ -13,7 +13,11 @@ Mechatronics Engineer | 3+ Years of specialized experience in automation and con
 - Post graduate program in data science and engineering (_Nov 2023_)
    
 ## 🌍 Work Experience 
-
+**Graduate Teaching Assistant @ Michigan Technological University (Aug_2025 - Dec 2025)**
+- Restructured exsisting lab content for the control system integration course and also developed new labs for the upcoming students on Integration of Ignition SCADA to PLC's and developed lab manual for Unitronic's PLC's to operate Pneumatic Pick and Place Machines.
+- Fixed machines which were not functioning by replacing the servo motor's with newer ones and configured network switch to connect ethernet cables to the machines.
+- Wired componentes like MCB and relay's to the PLC's and also configured input, output tag's for making it convenient for the student's to work on their labs.
+  
 ⚡**Manufacturing Controls Engineering Intern @ Tesla**
 
 - Optimized CTA station standby condition by designing a new sequence on PLC-Robot Handshake that eliminated gantry-cell desynchronization delays during CTA operation and reduced cycle time by 15s and tip change    by the operator on the gantry by 25%.
