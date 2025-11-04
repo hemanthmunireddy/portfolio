@@ -25,8 +25,12 @@ Mechatronics Engineer | 1 year of industrial experience Hands on experience in P
 - Eliminated the need for manual operation and operators for the ratio check process by designing a new sequence on the PLC-Gantry handshake, automating the process and also integrated tip checking process by       utilizing keyance LR sensors.
 - Developed pump interlocks for the battery module line to avoid mixing of adhesive’s by integrating barcode scans , developed material check Function block and WinCC HMI template for material verification before   the start of operation.
 - Eliminated 35% of manual robot recovery tasks by modifying PLC graph code, Fanuc robot programs to resume sequences from home position after faults and enhanced troubleshooting efficiency by updating HMI          faceplates with actuator descriptions and station indicators.
-
-
+  
+**Automation Intern @Global Vacuum Products(_April 2024 - Aug 2024)**
+  - Documented PLC programs and control sequences to support the development of Standard Operating Procedures (SOPs).
+  - Verified PLC code functionality by connecting and testing on designated test benches.
+  - Resolved over 15 technical tickets by providing detailed documentation and relevant datasheets.
+    
 💻 **Automation Controls Engineer @ Global Vacuum Products (_March 2023 - Nov 2023)**
 -	Contributed in developing Graph sequences for Vacuum Impregnation process.
 -	Programmed alarms contributing to error handling stratergies.
