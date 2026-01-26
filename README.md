@@ -3,7 +3,7 @@
 # 👋 Hi, I'm Hemanth Munireddy 
 
 ### 🌟Summary
-Mechatronics Engineer | 1 year of industrial experience Hands on experience in PLC programming, HMI development, SCADA systems ,Industrial Robotics, SQL, Data analysis with Python.
+Mechatronics Engineer | Hands on experience in PLC programming, HMI development, SCADA systems ,Industrial Robotics, SQL, Data analysis with Python.
 
 ## ✍️Education
 - M.S, Mechatronics, Robotics, Automation | Michigan Technological University (_Dec 2025_)
@@ -21,7 +21,7 @@ Mechatronics Engineer | 1 year of industrial experience Hands on experience in P
 
 - Integrated Ultrasonic and photoelectric sensor's, Mantis vision camera for automated cell's and programmed alarms to eliminate scrap and NCM battery modules by 40%.
 - Commisioned and sustained battery moudle lines through continous improvements and troubleshooting the automated system's acheiving the Peak OEE.
-- 
+
 
 
 ⚡**Manufacturing Controls Engineering Intern @ Tesla**
@@ -46,7 +46,7 @@ Mechatronics Engineer | 1 year of industrial experience Hands on experience in P
 
 [Inshort_Video](https://drive.google.com/file/d/1zFavhhW5IwPKEUOX1pLkGWlN5phOJ1ts/view?usp=drive_link)
 
-- Built a miniature industrial control panel integrating Allen Bradley MicroLogix 850 PLC, inductive proximity, photoelectric sensors and a drive, Fanuc robot ,while applying advanced wiring technique like employing sourcing and sinking configurations.
+- Built a miniature industrial control panel integrating Allen Bradley MicroLogix 850 PLC, inductive proximity, photoelectric sensors and a drive, Fanuc robot ,while applying advanced wiring technique like  employing sourcing and sinking configurations.
 - Programmed ladder logic in Connected Components Workbench (CCW) to segregation of good parts and bad parts and utilization of FANUC Robot’s inputs and outputs to automate the process.
 - Established PLC-Robot communication via Ethernet IP and programmed FANUC Robot for pick and place operations. 
 
