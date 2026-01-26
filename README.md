@@ -6,40 +6,39 @@
 Mechatronics Engineer | 1 year of industrial experience Hands on experience in PLC programming, HMI development, SCADA systems ,Industrial Robotics, SQL, Data analysis with Python.
 
 ## ✍️Education
-- M.S, Mechatronics, Robotics, Automation | Michigan Technological University (_Dec 2025_)								       			 			        		
-- B.E., Mechanical Engineering | Visveswaraya Technological University (_Jun 2023_) 
+- M.S, Mechatronics, Robotics, Automation | Michigan Technological University (_Dec 2025_)
+      Graduate Certificate in Controls and Automation in Mechatronics Systems.                              		
+- B.E., Mechanical Engineering | Visveswaraya Technological University (_Jun 2023_)
+- Post graduate program in data science and engineering (_Nov 2023_)
 
 ## 🎉Certifications
-- Post graduate program in data science and engineering (_Nov 2023_)
-   
+   - Fanuc CERT-1 Handling tools and operations (FANUC AMERICA Corporation)
+   - Igntion 8.3, 8.1 Credential (Inductive University)
+   - Industrial Automation training (Difacto Robotics and Automation)
+     
 ## 🌍 Work Experience 
-**Graduate Teaching Assistant @ Michigan Technological University (Aug_2025 - Dec 2025)**
-- Developed and restructured lab modules integrating Ignition SCADA with PLCs.
-- Created a Unitronics PLC lab manual for pneumatic pick-and-place applications.
-- Repaired and configured machines by replacing servo motors and setting up Ethernet networks.
-- Wired control components (MCBs, relays) and configured I/O tags to support lab experiments.
+**Associate Controls Engineer @ Tesla (Dec_2025 - Present)**
+
+- Integrated Ultrasonic and photoelectric sensor's, Mantis vision camera for automated cell's and programmed alarms to eliminate scrap and NCM battery modules by 40%.
+- Commisioned and sustained battery moudle lines through continous improvements and troubleshooting the automated system's acheiving the Peak OEE.
+- 
+
 
 ⚡**Manufacturing Controls Engineering Intern @ Tesla**
 
 - Optimized CTA station standby condition by designing a new sequence on PLC-Robot Handshake that eliminated gantry-cell desynchronization delays during CTA operation and reduced cycle time by 15s and tip change    by the operator on the gantry by 25%.
 - Eliminated the need for manual operation and operators for the ratio check process by designing a new sequence on the PLC-Gantry handshake, automating the process and also integrated tip checking process by       utilizing keyance LR sensors.
-- Developed pump interlocks for the battery module line to avoid mixing of adhesive’s by integrating barcode scans , developed material check Function block and WinCC HMI template for material verification before   the start of operation.
-- Eliminated 35% of manual robot recovery tasks by modifying PLC graph code, Fanuc robot programs to resume sequences from home position after faults and enhanced troubleshooting efficiency by updating HMI          faceplates with actuator descriptions and station indicators.
+- Developed pump interlocks for the battery module line to avoid mixing of adhesive’s by integrating barcode scanners , developed material check Function block and WinCC HMI template for material verification before  the start of operation.
+- Eliminated 35% of manual robot recovery tasks by modifying PLC graph code, Fanuc robot programs to resume sequences from home position after faults and enhanced troubleshooting efficiency by updating HMI         faceplates with actuator descriptions and station indicators.
   
-**Automation Intern @Global Vacuum Products(_April 2024 - Aug 2024)**
+**Automation Intern @Global Vacuum Products(_March 2023 - Nov 2023)**
 
   - Contributed in developing Graph sequences for Vacuum Impregnation process.
   - Documented PLC programs and control sequences to support the development of Standard Operating Procedures (SOPs).
   - Verified PLC code functionality by connecting and testing on designated test benches.
   - Resolved over 15 technical tickets by providing detailed documentation and relevant datasheets.
 
-**Engineering Intern @Bharath Earth Movers Limited(_Feb 2023 - April 2023)**
-
-- Reduced cycle time by 20% by optimizing the spot welding and material handling operations through virtual robot simulations using Roboguide simulation software.
-- Contributed in developing HMI screens in ignition for Rail and metro system assembly lines.
-- Modified PLC code improving cycle times by 15% and increase in availabilty by 25%.
     
-
 ## 🚀 Projects
 
 ### 🛣️ Automated Inspection and Sorting System using FANUC robot and Allen Bradley PLC
@@ -59,23 +58,12 @@ Mechatronics Engineer | 1 year of industrial experience Hands on experience in P
 - Designed and 3D-printed a custom end effector to seamlessly integrate a Bosch Gen 2.0 electric screwdriver with the FANUC LR Mate 200iC robot, enabling automated and precise torque-controlled screw fastening. 
 - Developed a compression-actuated mechanism to convert torque into synchronized rotary and linear motion, leveraging robotic movements for efficient and accurate fastening operations. 
 - Optimized robot motion paths and configured multiple user frames to accommodate diverse workpiece orientations, enhance adaptability and precision, resulting in a 30% increase in operational performance, a 20% reduction in cycle times.
-
-### 📈 PID Controller design for magnetic levitation system using Cohen Coon Method
-[Report](https://drive.google.com/file/d/10yvCP0mrvMw3rYTmnKT2Ls4WWmdDa6y0/view?usp=drive_link)
-- Modeled a first-order system with time delay for a magnetic levitation setup, identifying key parameters from the step response system gain (K) = 2.5, time constant (τm) = 4.2 s, and dead time (τd) = 1.1 s — to design a precise control solution.
-- Required to design P, PI, PD, and PID controllers using the Cohen–Coon tuning method to achieve zero steady-state error (<0.5%), minimal overshoot (<5%), and fast settling time (<6 s).
-- Applied Cohen–Coon formulas to calculate optimal gains (Kp, Ki, Kd), implemented each controller, and tested in MATLAB/Simulink. Plotted step responses, analyzed performance metrics, and iteratively fine-tuned gains to meet target specifications.
-- PID controller achieved rise time of 2.8 s, overshoot of 3%, and settling time of 5.1 s with zero steady-state error, outperforming P, PI, and PD controllers by 15–25% in key metrics.
   
   ### 🤖 Battery handling using FANUC Robot
 [Working_Video](https://drive.google.com/file/d/1s7rbbNLWDFGbCjEYHxYW-8YmuNVPgY4s/view?usp=drive_link)
 - Designing robust pick-and-place operations: Developing precise robotic motions to handle inclined objects effectively and utilizing robot's I/O for accurately picking and placing the batteries.
 - Tackling challenges in grip precision and orientation adjustments: Ensuring secure handling of irregularly positioned batteries.
 - Optimizing robotic motion for efficiency and accuracy: Streamlining movement sequences for reliable performance in repetitive tasks.
-
-### 🗄️ SQL Driven DataBase Management design and Data analysis.
-[Report](https://docs.google.com/presentation/d/12dAn-hdMEfNlKBexlSGdcOpKyiXE27LR/edit?usp=drive_link&ouid=115028343743082697341&rtpof=true&sd=true)
-- Crafted ER diagrams to clearly illustrate data relationship and schema structure.Utilized SQL to perform advanced data quering and analysis for resturant and supply chain datasets, creating complex queries to extract meaningful information.
 
 ### 💻 Industrial PLC based baggage Screening with HMI control
 [Working_Video](https://drive.google.com/file/d/18izs8OEbYTC-3akZPCTLphO0hwt3Y2RZ/view?usp=drive_link)
@@ -88,6 +76,17 @@ Mechatronics Engineer | 1 year of industrial experience Hands on experience in P
 - Objective & Risk Assessment: The project aimed to enhance operator safety and system reliability of a hydraulic tension testing machine by identifying potential hazards through detailed risk assessment, both before and after mitigation.
 - Safety Integration: Safety components such as two-hand control (ABB), safety relay, pressure switch, door interlock switch, and block & bleed valve were integrated to reduce risk levels from Performance Level (PL) e/d to PL b across various operational modes.
 - Reliability Metrics & Outcome: The improved system achieved high safety standards with MTTFd up to 76.92 years, Diagnostic Coverage above 95%, and CCF exceeding ISO standards—resulting in a compliant, cost-effective safety upgrade (~$7,622) that significantly increases operational safety and reliability.
+
+### 📈 PID Controller design for magnetic levitation system using Cohen Coon Method
+[Report](https://drive.google.com/file/d/10yvCP0mrvMw3rYTmnKT2Ls4WWmdDa6y0/view?usp=drive_link)
+- Modeled a first-order system with time delay for a magnetic levitation setup, identifying key parameters from the step response system gain (K) = 2.5, time constant (τm) = 4.2 s, and dead time (τd) = 1.1 s — to design a precise control solution.
+- Required to design P, PI, PD, and PID controllers using the Cohen–Coon tuning method to achieve zero steady-state error (<0.5%), minimal overshoot (<5%), and fast settling time (<6 s).
+- Applied Cohen–Coon formulas to calculate optimal gains (Kp, Ki, Kd), implemented each controller, and tested in MATLAB/Simulink. Plotted step responses, analyzed performance metrics, and iteratively fine-tuned gains to meet target specifications.
+- PID controller achieved rise time of 2.8 s, overshoot of 3%, and settling time of 5.1 s with zero steady-state error, outperforming P, PI, and PD controllers by 15–25% in key metrics.
+
+### 🗄️ SQL Driven DataBase Management design and Data analysis.
+[Report](https://docs.google.com/presentation/d/12dAn-hdMEfNlKBexlSGdcOpKyiXE27LR/edit?usp=drive_link&ouid=115028343743082697341&rtpof=true&sd=true)
+- Crafted ER diagrams to clearly illustrate data relationship and schema structure.Utilized SQL to perform advanced data quering and analysis for resturant and supply chain datasets, creating complex queries to extract meaningful information.
   
 ### 🔭 Prediction of Cardiovascular Disease using Machine Learning
 [ML_classification_report](https://drive.google.com/file/d/199sTHk4ELnh7AEVgIO1uo2BRP1IV_nb9/view?usp=drive_link)
@@ -100,10 +99,6 @@ Mechatronics Engineer | 1 year of industrial experience Hands on experience in P
 - Conducted comprehensive data preprocessing and feature engineering to optimize the dataset for model training and leveraging a range of regression models using python to accurately predict the price of 
   automobile based on features like transmission, fuel type, driven kms ,vehicle manufacturer and owner.
 
-## 🌟 Courses
-Applied Logic Level-1 (PLC DOJO)|
-Applied Logic Level-2 (PLC DOJO)|
-Learn Siemens S71200 from scratch using TIA portal
 
 ## Connect with me
 https://www.linkedin.com/in/hemanthmuni/
