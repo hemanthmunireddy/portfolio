@@ -3,13 +3,10 @@
 # 👋 Hi, I'm Hemanth Munireddy 
 
 ### 🌟Summary
- A mechatronics graudate student currently working at Tesla as an associate controls engineer for the SEMI team , I have hands on experience on working on multiple PLC brands and commisioned battery module pilot line and High volume line for the SEMI, Worked on configuring VFD's/ Servo's integrating Fanuc robot's with PLC's and vision camera's.
+Mechatronics graduate student and Associate Controls Engineer at Tesla (SEMI team) with hands-on experience across multiple PLC platforms. Experienced in commissioning battery module pilot and high-volume production lines, configuring VFDs and servo drives, and integrating FANUC robots and vision systems with PLCs for industrial automation
+### Skills
 <img width="1536" height="852" alt="image" src="https://github.com/user-attachments/assets/3182037e-6dda-4ef4-a879-78464433c6f2" />
 
-
-
-
- 
 ## ✍️Education
 - M.S, Mechatronics, Robotics, Automation | Michigan Technological University (_Dec 2025_)                              		
 - B.E., Mechanical Engineering | Visveswaraya Technological University (_Jun 2023_)
