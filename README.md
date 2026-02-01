@@ -4,7 +4,7 @@
 
 ### 🌟Summary
 Mechatronics graduate student and Associate Controls Engineer at Tesla (SEMI team) with hands-on experience across multiple PLC platforms. Experienced in commissioning battery module pilot and high-volume production lines, configuring VFDs and servo drives, and integrating FANUC robots and vision systems with PLCs for industrial automation
-### Skills
+### ⚡Skills
 <img width="1536" height="852" alt="image" src="https://github.com/user-attachments/assets/3182037e-6dda-4ef4-a879-78464433c6f2" />
 
 ## ✍️Education
