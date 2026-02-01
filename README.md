@@ -11,12 +11,12 @@
 
  
 ## ✍️Education
-- M.S, Mechatronics, Robotics, Automation | Michigan Technological University (_Dec 2025_)
-- Graduate Certificate in Controls and Automation in Mechatronics Systems.                              		
+- M.S, Mechatronics, Robotics, Automation | Michigan Technological University (_Dec 2025_)                              		
 - B.E., Mechanical Engineering | Visveswaraya Technological University (_Jun 2023_)
 - Post graduate program in data science and engineering (_Nov 2023_)
 
 ## 🎉Certifications
+   - Graduate Certificate in Controls and Automation in Mechatronics Systems (Michigan Technological University)
    - Fanuc CERT-1 Handling tools and operations (FANUC AMERICA Corporation)
    - Igntion 8.3, 8.1 Credential (Inductive University)
    - Industrial Automation training (Difacto Robotics and Automation)
