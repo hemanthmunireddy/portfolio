@@ -4,14 +4,8 @@
 
 ### 🌟Summary
  A mechatronics graudate student currently working at Tesla as an associate controls engineer for the SEMI team , I have hands on experience on working on multiple PLC brands and commisioned battery module pilot line and High volume line for the SEMI, Worked on configuring VFD's/ Servo's integrating Fanuc robot's with PLC's and vision camera's.
+ [Image](https://drive.google.com/file/d/1qoB3v65N26usOKM2TTyuJP2kbYwTVaGq/view?usp=drive_link)
  
-### Skills
-- PLC programming - Siemens TIA portal/ Allend Bradley (Studio 5000/ RS Logix/Compact Logix/ Component Connected workbench) / Schneider Ecostructure/ Unilogics/ Mitsubishi GX works
-- HMI / SCADA - WinCC / Factory Talk / Ignition/ GOT/ Vijeo Designer
-- Industrial Robot's - Fanuc TP programming and Roboguide Simulations/ ABB flexpendant and Cimstation simulation.
-- Data Science -  SQL/ Python/ Machine learning (Regression/ Classification Algorithms).
-- Vision Systems - Keyance ( XG series and IV series)/ Mantis 
-
 ## ✍️Education
 - M.S, Mechatronics, Robotics, Automation | Michigan Technological University (_Dec 2025_)
       Graduate Certificate in Controls and Automation in Mechatronics Systems.                              		
