@@ -4,13 +4,14 @@
 
 ### 🌟Summary
  A mechatronics graudate student currently working at Tesla as an associate controls engineer for the SEMI team , I have hands on experience on working on multiple PLC brands and commisioned battery module pilot line and High volume line for the SEMI, Worked on configuring VFD's/ Servo's integrating Fanuc robot's with PLC's and vision camera's.
-<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/e9c800fc-c41f-4479-ab28-8c3329a3aff3" />
+<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/5a6ae3be-e9d2-47d1-9db7-913108c05690" />
+
 
 
  
 ## ✍️Education
 - M.S, Mechatronics, Robotics, Automation | Michigan Technological University (_Dec 2025_)
-      Graduate Certificate in Controls and Automation in Mechatronics Systems.                              		
+- Graduate Certificate in Controls and Automation in Mechatronics Systems.                              		
 - B.E., Mechanical Engineering | Visveswaraya Technological University (_Jun 2023_)
 - Post graduate program in data science and engineering (_Nov 2023_)
 
