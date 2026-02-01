@@ -4,7 +4,8 @@
 
 ### 🌟Summary
  A mechatronics graudate student currently working at Tesla as an associate controls engineer for the SEMI team , I have hands on experience on working on multiple PLC brands and commisioned battery module pilot line and High volume line for the SEMI, Worked on configuring VFD's/ Servo's integrating Fanuc robot's with PLC's and vision camera's.
-<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/5a6ae3be-e9d2-47d1-9db7-913108c05690" />
+<img width="1536" height="852" alt="image" src="https://github.com/user-attachments/assets/3182037e-6dda-4ef4-a879-78464433c6f2" />
+
 
 
 
