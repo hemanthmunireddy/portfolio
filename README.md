@@ -1,7 +1,8 @@
 
 
 # 👋 Hi, I'm Hemanth Munireddy 
-<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/4ade02eb-9095-4e95-b38d-be258c93ffb4" />
+<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/fbed0801-67b1-405f-a71f-0e2213bb610e" />
+
 
 
 ### 🌟Summary
